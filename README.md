@@ -1,16 +1,16 @@
-El proyecto es una calculadora simple que realiza operaciones basicas de suma, resta, multiplicacion y division.
+El proyecto es una calculadora simple que realiza operaciones básicas de suma, resta, multiplicación y división.
 Utilizamos la dependencias streamlit para su funcionamiento.
 
-Intrucciones de instalacion:
-1. en cmd se crea entorno virtual(python -m venv . venv)
-2. actvivacion del entorno virutal activate.bad (.venv\Scripts\activate.bat)
-3. instalacion de dependencias necesarias para la ejecucion del proyecto (pip install openpyxl)
-4. guardar dependecias (pip freeze > requirements.txt)
-5. creacion del codigo en python
-6. por ultimo correr la aplicacion.
+Intrucciones de instalación:
+1. En cmd se crea entorno virtual(python -m venv . venv)
+2. Actvivación del entorno virtual activate.bad (.venv\Scripts\activate.bat)
+3. Instalación de dependencias necesarias para la ejecucion del proyecto (pip install openpyxl)
+4. Guardar dependecias (pip freeze > requirements.txt)
+5. Creación del codigo en python
+6. Por último correr la aplicación.
 
    Guia de uso:
-   Su funcionalidad es muy practica realiza operaciones basicas, contiene dos in put donde se puede ingresar los numeros de las operacione a realizar, luego hay un option
+   Su funcionalidad es muy práctica realiza operaciones basicas, contiene dos in put donde se puede ingresar los numeros de las operacione a realizar, luego hay un option
    donde eliges que operacion vas a hace y por ultimo un boton de calcular, donde dando click sobre el te genera un mensaje del resultado.
 
 
